@@ -14,9 +14,9 @@ SKILLS_DIR = Path.home() / ".claude" / "skills"
 
 # (source folder relative to OB1_ROOT, destination folder name in ~/.claude/skills/)
 SKILLS = [
-    ("recipes/claudeception",         "claudeception"),
+    ("skills/claudeception",         "claudeception"),
     ("recipes/live-retrieval",        "live-retrieval"),
-    ("recipes/panning-for-gold",      "panning-for-gold"),
+    ("skills/panning-for-gold",      "panning-for-gold"),
     ("skills/meeting-synthesis",      "meeting-synthesis"),
     ("skills/competitive-analysis",   "competitive-analysis"),
     ("skills/deal-memo-drafting",     "deal-memo-drafting"),
